@@ -32,8 +32,8 @@ def generate_insult():
 	Z = random.choice(c)
 	 
 	insult = X, Y, Z
-	prefix1 = 'Thou art a'
-	prefix2 = 'Thou art an'
+	prefix1 = 'Thou art a '
+	prefix2 = 'Thou art an '
 	 
 	first = X[0]
 	true = ['Yes', 'Y', 'Ye', 'yes', 'y', 'ye', ' Yes', ' Y', ' Ye', ' yes', ' y', ' ye']
